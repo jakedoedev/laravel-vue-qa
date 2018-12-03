@@ -2260,11 +2260,6 @@ pre code {
   opacity: 1;
 }
 
-.form-control:-ms-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
-}
-
 .form-control::-ms-input-placeholder {
   color: #6c757d;
   opacity: 1;
@@ -10421,6 +10416,10 @@ a.text-dark:focus {
   margin-right: 30px;
   font-size: 10px;
   text-align: center;
+}
+
+.counters .custom {
+  background: green;
 }
 
 .counters strong {
